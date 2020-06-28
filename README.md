@@ -1,1 +1,2 @@
-/*Submitting code for my shopping list project. I haven't reall debugged it yet but I wanted to get the whole github workflow //working.*/
+/* here is my repo. I believe my code is working and aligns with the requirements*/
+
